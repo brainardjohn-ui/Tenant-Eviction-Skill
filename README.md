@@ -21,9 +21,9 @@ Try these prompts to test the skill:
 
 ## Design Notes
 
-- **Scenario:** [A tenant receives an eviction notice and needs to understand their rights, timeline, and options. Your skill should help Claude guide them through the process step by step, using plain language.]
-- **Workflow steps:** [11]
-- **Key design choice:** [Asking fact-specific questions regarding tenancy situtation and providing an accurate state-law specific eviction timeline]
+- **Scenario:** A tenant receives an eviction notice and needs to understand their rights, timeline, and options. Your skill should help Claude guide them through the process step by step, using plain language.
+- **Workflow steps:** 11
+- **Key design choice:** Asking fact-specific questions regarding tenancy situtation and providing an accurate state-law specific eviction timeline
 
 ## Disclaimer
 
@@ -35,7 +35,7 @@ situation.
 
 ## Author
 
-[John Brainard] · LSU Law School · Spring 2026
+John Brainard · LSU Law School · Spring 2026
 
 ## License
 
