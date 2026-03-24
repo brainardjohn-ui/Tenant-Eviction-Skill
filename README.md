@@ -17,7 +17,7 @@ Helps a tenant who received an eviction notice understand what it means, their r
 Try these prompts to test the skill:
 
 - "I just got a 14-day notice to quit because I'm behind on rent. Do I have to move out immediately? I live in Louisiana and I don't know what to do."
-- "I received served court papers for eviction yesterday. It says I have a hearing in a few days. I’m in Baton Rouge and I’ve never been to court before. What happens if I don’t go?”
+- "I was served court papers for eviction yesterday. It says I have a hearing in a few days. I’m in Baton Rouge and I’ve never been to court before. What happens if I don’t go?”
 
 ## Design Notes
 
